@@ -34,8 +34,11 @@ Src/
 ---
 
 📚 References
+
 [DICOM Standard (NEMA)](https://dicom.nema.org/medical/dicom/current/output/chtml/part06/chapter_6.html?utm_source=chatgpt.com)
+
 [Innolitics DICOM Browser](https://dicom.innolitics.com/ciods)
+
 [pydicom Documentation](https://pydicom.github.io/)
 
 ---
